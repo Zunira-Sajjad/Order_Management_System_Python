@@ -1,0 +1,7 @@
+Order ID,Customer ID,Customer Name,Order Date,Product ID,Quantity
+1,2,Ahmad,2024-06-12,3,2
+2,4,Salaar,2024-02-02,4,2
+2,4,Salaar,2024-02-02,5,2
+3,2,Ahmad,2024-05-08,2,5
+4,3,Noor,2024-10-10,2,5
+4,3,Noor,2024-10-10,3,6
